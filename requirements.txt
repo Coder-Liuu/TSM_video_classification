@@ -1,0 +1,6 @@
+paddlepaddle-gpu==2.2.1
+opencv_contrib_python==4.1.0.25
+numpy==1.19.4
+tqdm==4.42.1
+paddle==1.0.2
+Pillow==9.0.0
